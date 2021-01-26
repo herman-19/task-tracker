@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Pickup MicroKorg :D",
+      "date": "2.7.2021",
+      "reminder": true
+    },
+    {
+      "text": "Dinner at Hon Kee BBQ",
+      "date": "Monday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Stop by Office for equipment",
+      "date": "1.29.2021",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
